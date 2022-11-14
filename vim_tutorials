@@ -1,0 +1,11 @@
+Hare krishna!
+-> esc- command mode
+------Editing commands-------------
+i(in command mode)- to type before the cursor 
+o(in command mode)- similar to "ctrl+enter" in vs code bindings
+a(in command mode)- to type after the cursor
+A - puts character at end of line
+O - inserts line above
+I - beginning of the line
+:!... - after bang whatever you write is terminal command
+nU(normal mode)- undo {n to do n undos}

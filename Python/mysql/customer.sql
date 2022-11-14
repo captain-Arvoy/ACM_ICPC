@@ -1,0 +1,12 @@
+drop table if exists customer;
+create table customer(custnumb int(4) primary key, custname varchar(50), Address varchar(70), balance float(8),credlim int(7), slsrnumb int(3));
+insert into customer values(124, 'TINA ADAMS','481 \, Tilak Lane \, CP \, delhi',41800.75, 50000,3);
+insert into customer values(256, 'R VENKAT', '215 \, Mylapore \, chennai',41800.75, 50000,6) ;
+insert into customer values(311, 'PRAKASH DESHMUKH', '48 \, Sea Link Road \, Mumbai',41800.75, 50000,12);
+insert into customer values(315, 'K R RAO', '914 \, K\.R\. Puram \,  Bangalore',41800.75, 50000,6);
+insert into customer values(405, 'BOB MUKHERJEE', '519 \, Salt Lake City \, Kolkata',41800.75, 50000,12);
+insert into customer values(412, 'LUBNA ADAMS', '16 \, Pedar Road \,  Mumbai',41800.75, 50000,3);
+insert into customer values(522, 'PRABHINOOR SINGH', '108 \, Vasant Kunj \, delhi',41800.75, 50000,12);
+insert into customer values(567, 'BHUVNA BALAJI', '808 CB \, Bala nagar \, Hyderabad',41800.75, 50000,6);
+insert into customer values(587, 'JABBAR ALI', '512 \, Kokapet \, Hyderabad',41800.75, 50000,6);
+insert into customer values(622, 'PRATHAM JAIN', '419 \, Plot 187 \, Sector-9, Dwarka, Delhi',41800.75, 50000,3);

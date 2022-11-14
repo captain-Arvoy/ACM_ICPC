@@ -1,0 +1,2 @@
+1. Help for strings - helpstr.cmd path-'g:\Help files\helpstr.cmd' 
+	

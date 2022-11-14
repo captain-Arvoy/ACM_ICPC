@@ -1,0 +1,8 @@
+Q1)Write a program ot swap two numbers given without using a 3rd variable.
+Q2)Write a program to input a character and display it's equivalent ASCII value.
+Q3) write a program to find compound interest when principle amount, no.of terms and rate of interest givven.
+Q4) Apply pythagorean theorem for finding the distance between two points AB and AC i.e.side 'a' when the two sides namely b,c are given as input.
+Q5)A car travels 100km at a speed of 60 km/h and returns with a speed of 40 km/h. Calculate the average speed for the whole journey.
+//A = p(1+r/n)^nt
+Q6)A boy is running in a circular playground having radius R given. What will be the distance and displacement from one end to other end of ground. [formula distance =Pi*r Displacement =2R]
+Q7)Write a program to inpupt a float value. Display it's integer part and decimal part separately.(Example: x= 123.456 then display 123 and 0.456 separately)

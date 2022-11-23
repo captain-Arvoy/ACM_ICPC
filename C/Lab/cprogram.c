@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main(){
-		char val = 260;
-
-		int ans;
-		ans = val + !val + ~val + ++val;
-		printf("%d",val);
-		return 0;
+	for (int i = 1; i <= 5; i ++){
+		for (int j = 5; j >= i; j--){
+			printf("%d",6-i);
+		}
+		printf("\n");
+	}
 }

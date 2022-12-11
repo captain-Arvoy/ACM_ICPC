@@ -50,7 +50,7 @@ public class Sorting {
     }
 
     public static void countingsort(int arr[]){
-        int largest_number = Integer.MAX_VALUE;
+        int largest_number = Integer.MIN_VALUE;
         for (int i = 0; i < arr.length; i++){
             largest_number = Math.max(largest_number, arr[i]);
         }
